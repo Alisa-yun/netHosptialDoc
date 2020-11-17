@@ -1174,7 +1174,9 @@
 	.chat-list-box-flex.reserve {
 		flex-direction: row-reverse;
 	}
-
+.face-msg-section{
+	display: flex;
+}
 	.chat-list-box-flex .custome-msg-section,
 	.chat-list-box-flex .text-msg,
 	.chat-list-box-flex .face-msg-section,
