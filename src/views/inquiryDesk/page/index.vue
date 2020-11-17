@@ -253,7 +253,6 @@
 							 type: 'warning'
 						   }).then(() => {
 							 this.changeState = 0
-							 this.timLoginOut()
 						   }).catch(() => {
 							this.changeState = 1
 							 this.$message({
